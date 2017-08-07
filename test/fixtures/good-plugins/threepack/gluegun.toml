@@ -1,0 +1,5 @@
+name = '3pack'
+
+[defaults]
+numbers = 3
+
